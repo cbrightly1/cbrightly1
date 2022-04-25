@@ -1,4 +1,4 @@
-![](https://github.com/cbrightly1/cbrightly1/blob/main/Congrats%2C%20teammate!.png)
+![](https://github.com/cbrightly1/cbrightly1/blob/main/banner.png)
 
 I am a recent graduate of the University of Pittsburgh and have made the great leap to Carnegie Mellon University as a graduate student in the Masters of Statistical Practice program. I have worked in the financial services field as an analytics and data science intern at First National Corporation for nearly two years, along with several independent consulting and research experiences. 
 
