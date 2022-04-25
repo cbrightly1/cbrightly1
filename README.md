@@ -3,8 +3,8 @@
 ![](https://github.com/cbrightly1/cbrightly1/blob/main/banner.PNG)
 
 - :star: Incoming analyst for the Allegheny Department of Human Services
-- :mortar_board: Masters degree in data science from Carnegie Mellon University
-- :mortar_board: Bachelors degree in statistics from the University of Pittsburgh 
+- :mortar_board: Master's degree in data science from Carnegie Mellon University
+- :mortar_board: Bachelor's degree in statistics from the University of Pittsburgh 
 - :credit_card: 2 years of data science and analytics experience in the financial services 
 - :bar_chart: 4 years of independent consulting and research experiences 
 
